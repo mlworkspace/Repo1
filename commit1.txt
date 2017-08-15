@@ -1,8 +1,5 @@
 Commit first item to the repo
 2nd line in commit1.txt here
 3rd line in the commit1.txt
-<<<<<<< Updated upstream
- adding 4t line into commit.txt
-=======
+adding 4t line into commit.txt
 5th line into commit.txt
->>>>>>> Stashed changes
