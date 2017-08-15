@@ -1,2 +1,3 @@
 Commit first item to the repo
 2nd line in commit1.txt here
+3rd line in the commit1.txt
